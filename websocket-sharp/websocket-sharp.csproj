@@ -4,6 +4,7 @@
     <Version>2.0.0</Version>
     <TargetFramework>net50</TargetFramework>
     <AssemblyName>Xposure.WebSocketSharp</AssemblyName>    
+    <PackageId>Xposure.WebSocketSharp</PackageId>    
     <OutputType>Library</OutputType>
     <RootNamespace>WebSocketSharp</RootNamespace>
   </PropertyGroup>
